@@ -21,13 +21,12 @@ This project is a **Task Manager** built using **React**. The application allows
 ### **Component Structure:**
 ```
 App
-├── Card 
-│ └── TaskSection
-│ └── Task
-|
+├── Card
+│   └── TaskSection
+│       └── Task
 └── Panel
-├── UserInfo
-└── UserTag
+    ├── UserInfo
+    └── UserTag
 ```
 
 ### **Component Descriptions:**
